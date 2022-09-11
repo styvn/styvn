@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @styvn
+- 👋 Hi, I’m Murithi Ndiritu.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on Opensource projects
